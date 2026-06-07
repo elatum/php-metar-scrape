@@ -11,8 +11,8 @@
  */
 
 // --- Station configuration ---------------------------------------------------
-$station_name = 'Drake Bay Airport (DRK), Costa Rica';
-$station_icao = 'MRDK';
+$station_name = 'Chinandega, Nicaragua';
+$station_icao = 'MNCH';
 $timezone     = -6;      // hours offset from UTC
 $timezonedesc = 'CST';
 
