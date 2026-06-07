@@ -11,8 +11,8 @@
  */
 
 // --- Station configuration ---------------------------------------------------
-$station_name = 'Chinandega, Nicaragua';
-$station_icao = 'MNCH';
+$station_name = 'San Jose, Costa Rica';
+$station_icao = 'MROC';
 $timezone     = -6;      // hours offset from UTC
 $timezonedesc = 'CST';
 
