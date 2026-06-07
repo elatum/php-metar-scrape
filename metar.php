@@ -4,8 +4,9 @@
 //nearest airport to corcovado  Enrique Malek International Airport David, Panama https://en.allmetsat.com/metar-taf/nicaragua-costa-rica-panama.php?icao=MPDA 
 
 //https://aviationweather.gov/data/metar/
-//raw data
+//raw data (TAF)
 //https://aviationweather.gov/api/data/metar?ids=MPDA&hours=0&sep=true
+//https://aviationweather.gov/api/data/taf?ids=MPDA&hours=0&sep=true
 
 
 $station_name="Chinandega, Nicaragua";
